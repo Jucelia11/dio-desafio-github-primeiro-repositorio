@@ -1,0 +1,2 @@
+É um otimo curso para quem estar começando na área de progamação. 
+link para downloads do Git: https://git-scm.com/downloads

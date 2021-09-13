@@ -1,0 +1,3 @@
+Uma estrutura de dados é uma maneira particular de organizar dados em um computador com o intuito 
+de usar os recursos de modo eficaz. As estruturas de dados e os algoritmos são
+a base de todas as soluções para qualquer problema de programação.
